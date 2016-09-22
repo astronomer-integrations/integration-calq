@@ -1,5 +1,5 @@
 {
-  "name": "integration-calq",
+  "name": "@astronomerio/integration-calq",
   "version": "1.2.1",
   "private": true,
   "description": "Calq server-side integration",
